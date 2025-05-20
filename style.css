@@ -42,10 +42,10 @@ body{
   border-radius: 12px;
   background: linear-gradient(
     to left,
-    hsl(340deg 100% 16%) 0%,
-    hsl(340deg 100% 32%) 8%,
-    hsl(340deg 100% 32%) 92%,
-    hsl(340deg 100% 16%) 100%
+    hsl(232, 90%, 32%) 0%,
+    hsl(232, 90%, 38%) 8%,
+    hsl(232, 90%, 38%) 92%,
+    hsl(232, 90%, 32%) 100%
   );
 }
 
@@ -56,7 +56,7 @@ body{
   border-radius: 12px;
   font-size: 1.1rem;
   color: white;
-  background: hsl(345deg 100% 47%);
+  background: hsl(232, 90%, 64%);
   will-change: transform;
   transform: translateY(-4px);
   transition:
